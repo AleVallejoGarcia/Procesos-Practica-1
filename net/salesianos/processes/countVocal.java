@@ -1,4 +1,4 @@
-package salesianos.utils;
+package salesianos.processes;
 
 public class countVocal {
     public static void main(String[] args) {
